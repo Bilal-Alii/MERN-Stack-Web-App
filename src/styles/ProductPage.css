@@ -1,0 +1,27 @@
+.product-page .container {
+    margin-top: 20px;
+  }
+  
+  .product-page .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .product-page .header h2 {
+    margin: 0;
+  }
+  
+  .product-page .header .btn {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .product-page .header .btn:hover {
+    background-color: #0056b3;
+  }
+  
